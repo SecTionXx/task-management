@@ -1,10 +1,12 @@
+import React from 'react'
+
 const App = () => {
-  return (
-    <div className=" flex justify-center bg-gray-300 text-red-600">
-      Hello, world
-      <button className="btn-primary btn">Test</button>
-    </div>
-  )
+	return (
+		<div>
+			App <h1>Test</h1>
+			<table>ทดสอบ</table>
+		</div>
+	)
 }
 
 export default App
